@@ -31,3 +31,4 @@ sns.jointplot(data=df, x="Age",y="Year of Operations", kind="kde")
 plt.ylabel("Cancer")
 plt.show()
 ```
+<img src="ss.png">
