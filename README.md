@@ -25,6 +25,7 @@ import warnings
 warnings.filterwarnings("ignore")
 ```
 <p>Density Plot</p>
+
 ```
 sns.jointplot(data=df, x="Age",y="Year of Operations", kind="kde")
 plt.ylabel("Cancer")
