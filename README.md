@@ -1,4 +1,4 @@
-# Haberman’s Cancer Survival: Visual Exploratory Data Analysis using Python
+# Haberman’s Cancer Survival: Visual Exploratory Data Analysis using Python (SeaBorn ,Matplotlib)
 Exploratory Data Analysis (EDA) is the series of asking questions and applying statistics and visualization techniques to answer those questions and to uncover the hidden insights from the data. A case study on the cancer survival data set is done to explore the most common EDA techniques in this Repository.
 <br>
 <h1>Data Description</h1>
